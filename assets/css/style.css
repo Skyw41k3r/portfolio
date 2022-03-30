@@ -1,0 +1,94 @@
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #1180ee;
+    font-size: large;
+}
+
+header {
+    display: box;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    border: 5px dashed rgb(0, 1, 2);
+    background-color: rgb(214, 248, 248);
+    text-align: center;
+}
+
+.hero {
+    display: block;
+    padding: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 200px;
+    width: 15%;
+    border-top: 10px;
+    border: 10px solid black;
+}
+
+P {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.codesLearned {
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    height: 60px;
+    font-family: 'times New Roman', 'Calibri';
+    background-color: #ffffff;
+    color: hsl(300, 62%, 45%);
+}
+
+main {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    height: 60px;
+    font-family: 'times New Roman', 'Calibri';
+    background-color: #ffffff;
+    color: hsl(300, 62%, 45%);
+}
+
+.codeOne {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'times New Roman', 'Calibri';
+    background-color: #ffffff;
+    color: hsl(300, 62%, 45%);
+}
+
+.codeTwo {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'times New Roman', 'Calibri';
+    background-color: color whitesmoke;
+    color: hsl(300, 62%, 45%)
+}
+
+.codeThree {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    font-family: 'times New Roman', 'Calibri';
+    background-color: #ffffff;
+    color: hsl(300, 62%, 45%);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'times New Roman', 'Calibri';
+    background-color: #ffffff;
+    color: hsl(300, 62%, 45%);
+}
