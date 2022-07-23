@@ -1,6 +1,6 @@
-# Portfilio
+# Portfilio 📁
 
-# About
+# About📖
 
 - The purpose of this exercise was to go over our last submission of our portfolio and make it up to date with what we know. 
 - Why did you build this project? To gain the skills to appropriately add dexterity and experience. 
